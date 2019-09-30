@@ -3,6 +3,7 @@
 ###### Блоги:
 - [Mark Seemann](http://blog.ploeh.dk/)
 - [Damienbod](http://damienbod.com/)
+- [Andrew Lock](https://andrewlock.net/)
 ###### Статьи:
 > Асинхронность
 - [Async Antipatterns](https://markheath.net/post/async-antipatterns)
