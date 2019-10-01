@@ -4,6 +4,7 @@
 - [Mark Seemann](http://blog.ploeh.dk/)
 - [Damienbod](http://damienbod.com/)
 - [Andrew Lock](https://andrewlock.net/)
+- [Mark Heath](https://markheath.net/)
 ###### Статьи:
 > Асинхронность
 - [Async Antipatterns](https://markheath.net/post/async-antipatterns)
