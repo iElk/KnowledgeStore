@@ -8,6 +8,10 @@
 ###### Статьи:
 > Асинхронность
 - [Async Antipatterns](https://markheath.net/post/async-antipatterns)
+> Брокеры сообщений
+- [RabbitMQ Exchanges, ключи роутинга и биндинги](https://thewebland.net/development/devops/rabbitmq/exchanges-routing-kyes-and-bindingi/)
+> БД
+-[Как работает реляционная БД](https://habr.com/ru/company/mailru/blog/266811/)
 
 ###### Книги:
 > Общее:
