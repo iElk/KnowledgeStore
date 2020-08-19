@@ -13,7 +13,7 @@
 > БД
 - [Как работает реляционная БД](https://habr.com/ru/company/mailru/blog/266811/)
 >Другое
--[.Net Exceptions Best Practices](https://medium.com/@mincasoft/net-exceptions-best-practices-2dc8487d043f)
+- [.Net Exceptions Best Practices](https://medium.com/@mincasoft/net-exceptions-best-practices-2dc8487d043f)
 
 ###### Книги:
 > Общее:
