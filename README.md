@@ -8,6 +8,7 @@
 ###### Статьи:
 > Асинхронность
 - [Async Antipatterns](https://markheath.net/post/async-antipatterns)
+- [Асинхронное программирование – производительность async: понять расходы на async и await](https://habr.com/ru/post/458332/)
 > Брокеры сообщений
 - [RabbitMQ Exchanges, ключи роутинга и биндинги](https://thewebland.net/development/devops/rabbitmq/exchanges-routing-kyes-and-bindingi/)
 > БД
